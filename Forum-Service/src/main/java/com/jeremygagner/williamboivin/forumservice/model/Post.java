@@ -20,4 +20,20 @@ public class Post {
         this.date = date;
         this.electorId = electorId;
     }
+
+    public int getId() {
+        return id;
+    }
+
+    public String getMessage() {
+        return message;
+    }
+
+    public String getDate() {
+        return date;
+    }
+
+    public int getElectorId() {
+        return electorId;
+    }
 }

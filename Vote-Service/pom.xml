@@ -43,6 +43,11 @@
             <artifactId>ojdbc10</artifactId>
             <version>19.14.0.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>mysql</groupId>
+            <artifactId>mysql-connector-java</artifactId>
+        </dependency>
     </dependencies>
 
     <build>
