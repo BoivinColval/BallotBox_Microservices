@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ballot-Service/Ballot-Service.iml" filepath="$PROJECT_DIR$/Ballot-Service/Ballot-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BallotBox_Microservices.iml" filepath="$PROJECT_DIR$/BallotBox_Microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Candidate-Service/Candidate-Service.iml" filepath="$PROJECT_DIR$/Candidate-Service/Candidate-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Elector-Service/Elector-Service.iml" filepath="$PROJECT_DIR$/Elector-Service/Elector-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Forum-Service/Forum-Service.iml" filepath="$PROJECT_DIR$/Forum-Service/Forum-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vote-Service/Vote-Service.iml" filepath="$PROJECT_DIR$/Vote-Service/Vote-Service.iml" />
+    </modules>
+  </component>
+</project>
